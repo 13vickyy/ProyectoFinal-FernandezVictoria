@@ -15,4 +15,7 @@ El testing se centrará en las funcionalidades definidas en las historias de usu
 - Herramientas: Word y Excel para registrar casos de prueba y bugs
 
 ## Conclusión general
-En proceso
+Tras la ejecución de las pruebas funcionales sobre Facebook Lite, se comprobó que la aplicación presenta un rendimiento estable y una correcta respuesta en la mayoría de sus funcionalidades principales. 
+De 15 casos de prueba, 14 pasaron exitosamente, evidenciando una buena estructura general y priorizando la experiencia del usuario.
+Los errores detectados no afectan las funciones críticas, sino que se relacionan con limitaciones esperables en una versión “Lite”. 
+Por lo tanto, el producto se considera listo para su uso en producción, ya que cumple con los objetivos funcionales previstos en el analisis preliminar, manteniendo un adecuado equilibrio entre rendimiento y simplicidad.
